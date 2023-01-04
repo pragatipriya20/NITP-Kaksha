@@ -1,0 +1,17 @@
+.my-container{
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.my-row{
+    /* border: 3px solid red; */
+    margin: 10px;
+}
+
+.my-col {
+    border: 3px dotted blue;
+}
+
+.my-list {
+    margin-top: 20px;
+}
